@@ -1,0 +1,5 @@
+---
+ name: ffmpeg-cli
+ description: Example use ffmpeg cli
+ authors:
+   - Adam Neumann

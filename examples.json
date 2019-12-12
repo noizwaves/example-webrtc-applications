@@ -6,6 +6,12 @@
 		"type": "browser"
 	},
 	{
+		"title": "ffmpeg CLI",
+		"link": "ffmpeg-cli",
+		"description": "Use ffmpeg cli for capturing desktop. Render in browser.",
+		"type": "browser"
+	},
+	{
 		"title": "Gstreamer Receive",
 		"link": "gstreamer-receive",
 		"description": "The gstreamer-receive example shows how to receive media from the browser and play it live. This example uses GStreamer for rendering.",
